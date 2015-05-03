@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "newStorageAccountName": {
-            "value": "uniqueStorageAccount"
+            "value": "ngstorage11"
         },
         "adminUsername": {
-            "value": "userName"
+            "value": "ngadmin"
         },
         "adminPassword": {
-            "value": "password"
+            "value": "debaser7"
         },
         "vmDnsName": {
-            "value": "uniqueDNS"
+            "value": "osaz_arm_vm1"
         }
    }
 }
